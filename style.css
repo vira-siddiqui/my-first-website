@@ -1,0 +1,24 @@
+body{
+    font-family: 'Courier New', Courier, monospace;
+    background-color: blueviolet;
+    text-align: center;
+    padding: 100px;
+}
+.container{
+    background-color: azure;
+    width: 500px;
+    margin:auto;
+    padding: 40px;
+    border-radius: 10px;
+}
+h1{
+    color: black;
+}
+button{
+    background-color: darkblue;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
